@@ -4,7 +4,7 @@
   <!--<a href="#">--><img src="https://i.imgur.com/eTkqPbs.png" alt="Navneet Anand" width="">
 </p>
   
-I'm Navneet Anand, a Security researcher based in India. I spend far more time than I should on learning Security related stuff. Here you can find few of my Public Projects to judge and use at your own risk of loving it.
+I'm Navneet Anand, a Security researcher based in India. I spend far more time than I should on learning Security related stuff. Here you can find few of my Public Projects to judge and/or use at your own risk of loving it.
 <br>Acknowledged and/or Rewarded by NCIIPC, Dutch Government and several other companies across the globe for securing their web applications.
 
 🎯 Certifications:<br>
