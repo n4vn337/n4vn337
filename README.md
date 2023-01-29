@@ -7,11 +7,6 @@
 I'm Navneet Anand, a Security researcher based in India. I spend far more time than I should on learning Security related stuff. Here you can find few of my Public Projects to judge and/or use at your own risk of loving it.
 <br>Acknowledged and/or Rewarded by NCIIPC, Dutch Government and several other companies across the globe for securing their web applications.
 
-🎯 Certifications:<br>
-| Issued By  | Certificate/Course |
-| ------------- | ------------- |
-| HACKERSERA  | Offensive Approach to Hunt Bugs <br>- BBHv1 <br>- BBHv2|
-| Udemy | Recon for Cybersecurity  |
 
 👨 Where to Find Me:<br><br>
 <a href="https://twitter.com/n4vn337"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
