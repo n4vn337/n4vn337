@@ -11,7 +11,7 @@ I'm Navneet Anand, a Security researcher based in India. I spend far more time t
 👨 Where to Find Me:<br><br>
 <a href="https://twitter.com/n4vn337"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/21navneet/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/c/pwnedbyNavneet"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<!--<a href="https://www.youtube.com/c/pwnedbyNavneet"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>-->
 
 
 <!-- 💲 Support if any of my project added value to your workflow:<br><br>
